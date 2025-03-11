@@ -2,3 +2,4 @@ Bumpy
 Pandas
 flask
 streamlit
+scikit-learn
